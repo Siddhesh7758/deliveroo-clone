@@ -12,7 +12,7 @@ const Categories = () => {
       horizontal
       showsHorizontalScrollIndicator={false}
     >
-      {/* category card */}
+      
       <CategoryCard
         title="testing"
         imageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-g9s-v-ShOnSO0sErIM4U6PL4cO4jF6Kovw&usqp=CAU"
